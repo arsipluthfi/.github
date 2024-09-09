@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/c57332d2-80ea-4de5-883d-23cd543beafe">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/95aab23a-8014-4d65-a6d9-e7c4aa37d2f8">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/6c087223-281b-4a91-b609-4551e6d4b946">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/4a80e314-5f0b-45c2-a848-21795f2076fe">
   <img>
 </picture>
